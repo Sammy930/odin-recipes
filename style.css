@@ -21,3 +21,9 @@ button {
 .no-bullet {
     list-style: none;
 }
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(40, 44, 43);
+}
