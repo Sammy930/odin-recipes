@@ -1,1 +1,19 @@
-body {background-color: rgb(240, 188, 92);}
+body {
+    background-color: rgb(240, 188, 92);
+}
+
+button {
+    background-color: rgb(40, 44, 43);
+    border-color: rgb(52, 65, 61);
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+
+.link {
+    text-align: center;
+}
+
+.no-bullet {
+    list-style: none;
+}
