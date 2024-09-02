@@ -19,6 +19,11 @@ button {
     margin: 10px;
 }
 
+button:hover {
+    background-color: rgb(14, 12, 12);
+    height: 50px;
+}
+
 .link {
     text-align: center;
 }
@@ -36,6 +41,7 @@ h1 {
     height: 50px;
     margin: 10px -8px;
     padding: 5px 5px;
+    font-family: cursive;
     font-size: 35px;
     color: white;
     background-color: rgb(40, 44, 43);
