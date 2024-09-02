@@ -10,10 +10,13 @@ body {
 
 button {
     background-color: rgb(40, 44, 43);
-    border-color: rgb(52, 65, 61);
     font-size: 22px;
     color: white;
     font-weight: bold;
+    height: 40px;
+    width: 200px;
+    border: solid rgb(52, 65, 61);
+    margin: 10px;
 }
 
 .link {
@@ -30,6 +33,9 @@ h2 {
 }
 
 h1 {
+    height: 50px;
+    margin: 10px -8px;
+    padding: 5px 5px;
     font-size: 35px;
     color: white;
     background-color: rgb(40, 44, 43);
